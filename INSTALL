@@ -1,0 +1,9 @@
+Compiling / integration for BMCoin in to your Platform
+
+See doc/readme-qt.rst for instructions on building BMCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BMCoin.
+
+See doc/build-*.txt for instructions on building beepmagnetd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BMCoin.

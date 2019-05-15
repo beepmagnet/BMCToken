@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.3.0
+Name=Beep Magnet Client
+Comment=Beep Magnet Graphical UI
+Categories=Network;
+Exec=/usr/local/bin/beepmagnet
+Icon=/usr/share/pixmaps/beepmagnet.png
+Terminal=false
+Type=Application
