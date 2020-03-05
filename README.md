@@ -1,4 +1,4 @@
-# BMCToken International Ltd
+# BeepMagnet International Ltd
 
 
 ### Download Supported Platforms
